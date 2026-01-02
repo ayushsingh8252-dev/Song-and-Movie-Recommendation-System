@@ -3,7 +3,7 @@
 This project is an end-to-end Recommendation System that suggests songs and movies to users based on similarity patterns and user preferences.
 It demonstrates core concepts of Machine Learning–based recommender systems, API deployment, and an interactive frontend.
 
-🚀 Key Features
+🚀 Key Feature
 
 Personalized song and movie recommendations
 
